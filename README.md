@@ -76,6 +76,48 @@ To launch Expressing:
 
 ---
 
+### Desktop Lite
+
+Desktop Lite (Aura PKM) is a lightweight personal knowledge management workspace. It provides a clean, distraction-free environment to capture, organize, filter, and review notes and ideas, all running entirely client-side in a single HTML file.
+
+#### Key Features
+
+*   **Personal Knowledge Management**: A compact, self-contained workspace to capture, tag, and organize notes with local storage persistence.
+*   **Filterable Notes**: Search and filter your notes to quickly surface what you need.
+*   **Zero Dependencies**: Fully runs client-side in a single HTML file using Tailwind CSS and native Javascript.
+
+#### Getting Started
+
+To launch Desktop Lite:
+1. Navigate to the tool's directory:
+   ```bash
+   cd desktop-lite
+   ```
+2. Open index.html directly in any modern web browser.
+
+---
+
+### ADHD Text
+
+ADHD Text is a professional reading typography and visual testing lab. It is designed to improve reading comfort and focus through dyslexia-friendly fonts, adjustable typography, reading rulers, and visual helpers.
+
+#### Key Features
+
+*   **Dyslexia-Friendly Fonts**: OpenDyslexic and other legible typefaces built in to lower the barrier to reading.
+*   **Reading Helpers**: Adjustable rulers, spacing, and visual guides to reduce line-skipping and distraction.
+*   **Zero Dependencies**: Fully runs client-side in a single HTML file using Tailwind CSS and native Javascript.
+
+#### Getting Started
+
+To launch ADHD Text:
+1. Navigate to the tool's directory:
+   ```bash
+   cd adhd-text
+   ```
+2. Open index.html directly in any modern web browser.
+
+---
+
 <a name="chinese-version"></a>
 # 中文版
 
@@ -150,6 +192,48 @@ Expressing 是一款地道英语表达对比与积累工具。它通过直观的
 1. 进入该工具所在的目录：
    ```bash
    cd expressing
+   ```
+2. 直接在任意现代浏览器中打开 index.html 即可开始使用。
+
+---
+
+### Desktop Lite
+
+Desktop Lite (Aura PKM) 是一款轻量级的个人知识管理工作台。它以简洁、无干扰的界面帮助你捕获、整理、筛选与复习笔记和灵感，纯前端单文件运行，无需任何构建与后端依赖。
+
+#### 核心特性
+
+*   **个人知识管理**：紧凑的自包含工作空间，支持本地存储持久化地捕获、打标签与整理笔记。
+*   **笔记筛选**：可搜索、可筛选，快速定位你需要的笔记内容。
+*   **纯前端零依赖**：单 HTML 文件即可运行，使用 Tailwind CSS 与原生 Javascript。
+
+#### 快速开始
+
+启动 Desktop Lite：
+1. 进入该工具所在的目录：
+   ```bash
+   cd desktop-lite
+   ```
+2. 直接在任意现代浏览器中打开 index.html 即可开始使用。
+
+---
+
+### ADHD Text
+
+ADHD Text 是一个专业阅读排版与视觉测试实验室。它通过易读字体、可调排版、阅读辅助线等视觉工具，改善阅读舒适度并提升专注力。
+
+#### 核心特性
+
+*   **易读字体**：内置 OpenDyslexic 等为阅读障碍优化的可读字体，降低阅读门槛。
+*   **阅读辅助工具**：可调辅助线、行距与视觉引导，减少跳行与注意力涣散。
+*   **纯前端零依赖**：单 HTML 文件即可运行，使用 Tailwind CSS 与原生 Javascript。
+
+#### 快速开始
+
+启动 ADHD Text：
+1. 进入该工具所在的目录：
+   ```bash
+   cd adhd-text
    ```
 2. 直接在任意现代浏览器中打开 index.html 即可开始使用。
 
